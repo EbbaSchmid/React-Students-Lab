@@ -66,9 +66,11 @@ function App(props) {
 ]
   return (
     <div>
-      <h1>Student List</h1>
+      <h1>Main Student List</h1>
     {students.map((student, index) =>
-      <Student  key={index} student={student}/>
+      <Student  
+      key={index} 
+      student={student}/>
 
     )}
     </div>

@@ -1,3 +1,17 @@
 div {
-  border: 1px solid black;
+  border: 3px dashed rgb(250, 213, 5);
+  color: rgb(7, 203, 238);
+  background-color: black;
+  padding: 10px
+}
+
+#studentNameBio {
+  margin: 10px;
+  padding: 10px
+}
+
+
+#studentScore{
+  margin: 10px;
+  padding: 10px
 }

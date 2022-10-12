@@ -1,3 +1,4 @@
+import React from 'react';
 import Score from "../Score/Score";
 
 
